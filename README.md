@@ -28,7 +28,7 @@ This project simulates the delivery of essential supplies in epidemic-affected a
    - **Note:** Valid coordinate range is X: 0–49, Y: 0–10, and Z: 0–49. Coordinates outside this range will not be recognized.
 
 2. **Localization:**  
-   - Click the **"定位"** button to verify the target location.  
+   - Click the **"定位"** (Locate) button to verify the target location.  
    - A marker will appear at the target: green if reachable, red if unreachable.
 
 3. **Advance:**  
