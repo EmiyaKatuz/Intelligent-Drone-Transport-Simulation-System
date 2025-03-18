@@ -53,5 +53,9 @@ This project simulates the delivery of essential supplies in epidemic-affected a
 2. Open the project in Unity3D.
 3. Follow the installation and operating instructions above or download the pre-packaged executable from the Releases.
 
+## Outcome
+
+Please see the [Report](./2052620毕业论文（设计）.pdf) here. **Chinese version Only**
+
 ## License
 This project is licensed under the Mozilla Public License Version 2.0 License.
