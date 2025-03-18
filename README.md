@@ -36,7 +36,7 @@ This project simulates the delivery of essential supplies in epidemic-affected a
    - The drone will move toward the target point, leaving a red trail that traces its flight path.
 
 4. **Scene Switching:**  
-   - Use the **"切换场景"** button to toggle between different simulation scenes (e.g., school and city).  
+   - Use the **"切换场景"** (Change the scene) button to toggle between different simulation scenes (e.g., school and city).  
    - The coordinate input, localization, and advance operations remain consistent across scenes.
 
 5. **View Controls:**  
