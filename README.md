@@ -55,7 +55,7 @@ This project simulates the delivery of essential supplies in epidemic-affected a
 
 ## Outcome
 
-Please see the [Report](./2052620毕业论文（设计）.pdf) here. **Chinese version Only**
+Please see the [Report](./2052620毕业论文（设计）.pdf) here. **(Chinese version Only)**
 
 ## License
 This project is licensed under the Mozilla Public License Version 2.0 License.
